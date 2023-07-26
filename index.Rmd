@@ -1,6 +1,6 @@
 --- 
 title: "AI Tools in the Job Recruiting Process"
-author: "Yihui Xie"
+author: "Jingyi (Vera) Wang, Kuigang (KG) Zhang, Michael Czapp, Xinqian (Demi) Dai, Yousuf Altameemi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -14,3 +14,4 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Introduction to Our Book
 
+Discuss the importance of job recruiting for Ross students and then transition to AI and its new impact in the area
