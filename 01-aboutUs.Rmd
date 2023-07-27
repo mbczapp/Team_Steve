@@ -1,41 +1,43 @@
 # About Us
 
 ## Jingyi Wang
-**Background** 
+
+**Background**
 
 **Experience**
 
 **Fun Facts**
 
-
 ## Kuigang Zhang
-**Background** 
-UCLA
+
+**Background** UCLA
 
 **Experience**
 
 **Fun Facts**
 
 ## Michael Czapp
-**Background** 
+
+**Background**
 
 **Experience**
 
 **Fun Facts**
-Both my older brother and sister studied industrial engineering in undergrad
 
+-   Both my older brother and sister studied industrial engineering in undergrad
+
+-   Blah blah
 
 ## Xinqian Dai
-**Background** 
+
+**Background**
 
 **Experience**
 
 **Fun Facts**
 
 ## Yousuf Altameemi
-**Background** 
-Hello
-Yo
-**Experience**
+
+**Background** Hello Yo **Experience**
 
 **Fun Facts**
