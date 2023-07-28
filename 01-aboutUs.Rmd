@@ -18,7 +18,11 @@
 
 ## Michael Czapp
 
+![](images/E8F6A9AB-E4E3-4D8B-AB0C-8A0B086CE75C-01.jpeg){width="266"}
+
 **Background**
+
+My name is Michael Czapp, and I am currently a Master of Business Analytics (MBAn) student at the University of Michigan Ross School of Business. In April 2023, I graduated from the College of Engineering here with a Bachelor of Science in Industrial & Operations Engineering. I knew I wanted to specialize in analytics, so starting a graduate program right after graduation made the most sense. It also allowed me to have an extra year at the University of Michigan and stay in my home state, and I plan to make the most of it!
 
 **Experience**
 
@@ -26,7 +30,9 @@
 
 -   Both my older brother and sister studied industrial engineering in undergrad
 
--   Blah blah
+-   I can play hockey as both a goalie and a skater
+
+-   I've lived in the state of Michigan for my entire life
 
 ## Xinqian Dai
 
@@ -40,6 +46,11 @@
 
 **Background**
 
+<<<<<<< HEAD
+=======
+Hello Yo
+
+>>>>>>> f33377fede580aac3051881ef3f5b6f85e817fa4
 **Experience**
 
 **Fun Facts**
