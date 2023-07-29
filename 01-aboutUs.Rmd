@@ -44,7 +44,7 @@ My name is Michael Czapp, and I am currently a Master of Business Analytics (MBA
 
 ## Yousuf Altameemi
 
-![](_book/Headshot.jpg){width="229"}
+![](Headshot.jpg){width="229"}
 
 **Background**
 
