@@ -18,7 +18,7 @@
 
 ## Michael Czapp
 
-![](Michael Czapp Photo.jpeg){width="227"}
+![](Michael%20Czapp%20Photo.jpeg){width="227"}
 
 **Background**
 
@@ -44,8 +44,20 @@ My name is Michael Czapp, and I am currently a Master of Business Analytics (MBA
 
 ## Yousuf Altameemi
 
+![](_book/Headshot.jpg){width="229"}
+
 **Background**
+
+I was born and raised in Baghdad, Iraq, but now I live in the metro Detroit area. Besides my regular job, I love doing photography as a hobby. I enjoy capturing moments and emotions with my camera, and it lets me see the world in a whole new way. Additionally, I have a knack for analytics; I enjoy working with data, finding patterns, and gaining valuable insights from it. This analytical mindset helps me both in my photography and other aspects of life.
 
 **Experience**
 
+I graduated from Wayne State University in 2022 with a double major in Finance and Business Administration. For the past three years, I have been working as an IT Business Analyst at DTE Energy, where I have been involved in various analytical projects within the IT department. My responsibilities include analyzing data, identifying patterns, and providing valuable insights that contribute to the company's IT strategies and decision-making processes. I have also had the opportunity to collaborate with external consultants, showcasing my ability to work effectively with diverse teams and stakeholders. With a strong analytical mindset and a background in finance and business, I am well-equipped to contribute positively to any project or team I am a part of.
+
 **Fun Facts**
+
+-   I am a part-time photographer, I shoot portraits, events and weddings
+
+-   I enjoy playing soccer, my friends and I play twice a week
+
+-   I collect vintage Ralph Lauren clothing
