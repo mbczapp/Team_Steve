@@ -2,19 +2,43 @@
 
 ## Jingyi Wang
 
+![](Vera Photo.png){width="208"}
+
 **Background**
+
+My name is Jingyi (Vera) Wang, currently a Master of Business Analytics student at the University of Michigan Ross School of Business. In May 2023, I graduated from Boston University with a concentration in Finance and Business Analytics. From my previous academic and internship experiences, I found my passion for business analytics. That\'s the reason why I decided to pursue a graduate degree in order to help me specialize in my area of interest and enrich my experience and knowledge in the field.
 
 **Experience**
 
+My experience is mainly composed of internships, projects, and case competitions. In 2021, I interned at Accenture as a management consulting intern. I managed project plans, conducted data analysis, and facilitated platform testing sessions for clients to improve the efficiency and accuracy of their online platform. In 2022, I interned at Vantage House Media as a finance intern. I generated comprehensive financial reports and provided stakeholders with valuable recommendations and potential VC prospects based on data analysis. In addition, I was a quantitative financial analyst intern at Shenwan Hongyuan Securities, where I built python models to select top-performing stocks and assess fund managers' performance. 
+
 **Fun Facts**
+
+-   I have two pet guinea pigs
+
+-   I never watch horror movies
+
+-   I love photography, and I have previously operated a photography social account of my own
 
 ## Kuigang Zhang
 
-**Background** UCLA
+![](KG Photo.png){width="210"}
+
+**Background**
+
+My name is Kuigang Zhang, and I go by KG. I graduated from UCLA with a Data Science major and an Accounting minor in June 2023. Programming and business have been two areas that I am passionate about; therefore, I decided to pursue a Master of Business Analytics here at the University of Michigan Ross School of Business. I look forward to enriching my toolbox, meeting like-minded people, and getting the most out of the program.
 
 **Experience**
 
+I have four years of experience in programming, and have completed a number of Kaggle Competition as well as machine learning projects, and I have worked as an data analyst intern at the Shanghai Research Institute of Building Science Academy, where I enabled household energy consumption forecast in Shanghai for managing and planning urban energy utilization, covering a wide range of locations and building types.I have also worked as a data analyst intern at Lin Zhen Trading, where I developed an integrated data-driven retail supply chain management app in support of the bedding items business.
+
 **Fun Facts**
+
+-   I was born and raised in Africa
+
+-    I deadlift 400lbs
+
+-    I speak 5 languages
 
 ## Michael Czapp
 
@@ -26,6 +50,8 @@ My name is Michael Czapp, and I am currently a Master of Business Analytics (MBA
 
 **Experience**
 
+My experience primarily consists of two summer internships. In 2021, I interned at DTE Energy in Detroit, MI as a Continuous Improvement Intern. I got to develop Power BI dashboards, lead a time study analysis on claim investigations, and support the execution of a pilot study at one of the company\'s sites. In 2022, I interned at Boston Scientific Corporation as a Global Supply Chain Consulting Intern, which was essentially an internal consulting role. I built automations, helped plan a global virtual conference, and used Excel to identify opportunities to decrease shipping costs to customers, all of which provided me with a great experience in using data to discover and convey meaningful insights to stakeholders.
+
 **Fun Facts**
 
 -   Both my older brother and sister studied industrial engineering in undergrad
@@ -36,11 +62,23 @@ My name is Michael Czapp, and I am currently a Master of Business Analytics (MBA
 
 ## Xinqian Dai
 
+![](Demi Photo.png){width="200"}
+
 **Background**
+
+Hello! My name is Xinqian (Demi) Dai, and I come from the beautiful province of Heilongjiang, China, where I was born and raised. In 2019, I embarked on my exciting journey by enrolling at the University of Massachusetts Amherst for my undergraduate studies. I graduated with a double major in Marketing and Statistics in May 2023. My interest in Marketing has deep roots that extend back to my childhood days when I found myself more fascinated by the commercial inserts of a washing powder than the animated series on TV.  Currently, I am intrigued by Customer Analytics, Advertising Effectiveness, and Digital Marketing, and I'm eager to delve deeper into these areas. Looking ahead, my post-graduation aspirations involve entering into the MarTech (Marketing Technology) industry. Armed with the knowledge and skills from the MBAn program, I aim to make a significant impact by applying data-driven strategies and innovative marketing technologies.
 
 **Experience**
 
+During my time at UMass Amherst, I engaged in a diverse range of research experiences and marketing projects. As a Marketing Research Assistant at the UMass Ombuds Office, I analyzed data from over 300 undergraduate student visitors, studying variables like gender and major to identify successful conflict resolution strategies. Utilizing R and Python, I applied regression models to estimate meeting times and understand the impact of visitor demographics on appointment durations. During my participation in the Research Experiences for Undergraduates (REU) Program, I conducted full-time research on Bayesian parameter estimations, highlighting the effectiveness of Bayesian models over traditional linear regression models. Additionally, as a Research Assistant in the UMass Marketing Department, I analyzed customer reactions to visual advertisements for various product categories and conducted experiments to evaluate the effect of different headbands on students. As a Strategist for the UMass AdLab, I designed customized questionnaires and implemented successful advertising strategies, resulting in a significant increase in orders for local companies. These experiences have shaped my passion for business analytics and my dedication to data-driven research and strategic planning.
+
 **Fun Facts**
+
+-   A24 is my favorite film production company
+
+-   I\'m better at cooking than baking
+
+-   My hometown holds the International Ice and Snow Festival every winter
 
 ## Yousuf Altameemi
 
