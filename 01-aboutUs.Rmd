@@ -1,5 +1,9 @@
 # About Us
 
+![](Team Photo.jpg){width="388"}
+
+Our team, **Team Steve**, is driven by Steve's desire for a website that describes how new AI Tools are used in the recruitment process. For context, Steve (as seen in the black O'Neill shirt in the front left) is a student here at the Stephen M. Ross School of Business who is NOT in our project team. When deciding our team name, we thought it'd be a great idea to name it after the first person we encounter. We happened to run into Steve outside of our classroom, and the rest is history.
+
 ## Jingyi Wang
 
 ![](Vera%20Photo.png){width="208"}
