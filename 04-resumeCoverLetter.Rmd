@@ -1,1 +1,27 @@
 # Resume and Cover Letter Optimizers
+
+In today's competitive and ever-changing job market, it is crucial to have a well-crafted resume and cover letter to stand out from competitors and gain the opportunity to catch employers' attention. With the recent advancements in AI tools, students can now leverage technology to optimize their resumes and cover letters effectively. Here are some popular AI resume and cover letter builders:
+
+## Resume.com
+
+[Resume.com](https://www.resume.com/) is a free online resume builder that helps you create a resume tailored to your skills and experience. One outstanding feature of Resume.com is to assist you in pinpointing the most relevant keywords for your target positions, which is essentially beneficial when applying for positions that require specific technical or professional skills and abilities. In addition, it also provides various customizable templates and editing tools where you could easily edit your content based on your individual needs. It also provides a resume evaluation service by giving personalized feedback on your resume.
+
+## Jobscan
+
+[Jobscan](https://www.jobscan.co/) is a popular AI resume builder that analyzes your resume and provides suggestions for improvements based on the description and keyword. It has the unique feature of scanning a resume against a job description, offering you a detailed report about how your skills and experience are being matched with areas where you can enhance your alignment with the role.
+
+## Resunate (replace)
+
+The AI-powered resume builder Resunate automatically generates a well-formatted and optimized resume tailored to any position you desire. It has an easy-to-use user interface that helps you customize your unique resume with just a few clicks. Resunate provides feedback and personalizes every resume with effective keywords and phrases such as "attention to detail" and "collaborative environment." In addition, it offers various other features such as direct competition tracking, targeted real-time feedback, and cover letter creation tools, which makes it a perfect user-friendly platform for job seekers to create a high-quality and professional resume.
+
+## Jasper AI
+
+[Jasper AI](https://www.jasper.ai/) is a big hitter in the AI writer space to help you with cover letter writing. By using its personal bio template, Jasper quickly generates a cover letter highlighting your qualifications and experience and customizes your document based on your job requirements. Additionally, you can explore different tones of voice to match the company's style and use Jasper to discover various synonyms, phrases, and sentences to further personalize your cover letter.
+
+## Rezi
+
+[Rezi](https://www.rezi.ai/) is a professional AI covert letter generator. It provides over 250+ cover letter samples, which allows job seekers to begin the process of creating cover letters. After analyzing your resume, Rezi makes references from your resume experiences and how they fit best for the job role in your cover letter. If you enter the ideal company details and specific skills and position highlights, Rezy will generate a tailored cover letter in seconds. 
+
+## Cover Letter Simple.ai
+
+[Cover Letter Simple.ai](https://coverlettersimple.ai/) is unique from other cover letter tools mentioned above as it focuses on generating unique and job-specific cover letters. After entering your ideal job title, it searches billions of data points to retrieve relevant information for the job, such as expected skills and accomplishments. It then generates impressive cover letters that help you stand out from other applicants.
