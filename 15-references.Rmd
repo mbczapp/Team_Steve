@@ -1,7 +1,29 @@
 # References
 
-(1) [**https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence?Offer=abt_pubpro_AI-Insider**](https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence?Offer=abt_pubpro_AI-Insider)
+## What is Artificial Intelligence (AI)?
 
-(2)
+(1) <https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence?Offer=abt_pubpro_AI-Insider>
 
-(3)
+## AI Tools for Job Searching
+
+## Resume and Cover Letter Optimizer
+
+## Student Practice Interview
+
+## Automated Applications
+
+## What are Applicant Tracking Systems (ATS)?
+
+## Recruiting Chatbots
+
+## Resume and Cover Letter Screening
+
+## Video Interview Assessments
+
+(1) [https://www.hubert.ai/insights/what-are-ai-interviews\\](https://www.hubert.ai/insights/what-are-ai-interviews%5C)
+
+(2) <https://theconversation.com/facial-analysis-ai-is-being-used-in-job-interviews-it-will-probably-reinforce-inequality-124790>
+
+## Skill Assessments
+
+## Predicting Candidates' Success
