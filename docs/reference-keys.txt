@@ -20,13 +20,16 @@ teal
 simplify
 lazyapply-1
 what-are-applicant-tracking-systems-ats
+definition
+features
+benefits
 recruiting-chatbots
 resume-and-cover-letter-screening
 video-interview-assessments
 how-it-works
 facial-analysis
 language-analysis
-benefits
+benefits-1
 drawbacks
 what-you-a-student-can-do
 general-preparation
