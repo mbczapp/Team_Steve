@@ -15,6 +15,9 @@ lazyapply
 rezi
 cover-letter-simple.ai
 student-practice-interviews
+standout
+yoodli
+interviewgpt.ai
 automated-applications
 teal
 simplify
