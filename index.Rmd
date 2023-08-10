@@ -19,4 +19,5 @@ For students at the Stephen M. Ross School of Business, the primary goal by grad
 Our book will provide a comprehensive overview of these AI tools. We will approach this from two perspectives: students' and recruiters'. For students, we discuss how they can use AI job finders, resume and cover letter optimization, practice interviews, and automated applications to support their professional endeavors. On the other hand, we discuss what AI tools recruiters may use, like applicant tracking systems (ATS), resume and cover letter screening, interview assessments, skill assessments, and predictive analytics. Then, we suggest how students should tailor their presentation of themselves to fit what these AI tools are looking for.
 
 | **Students looking for AI tools to help their application and interview process should see Chapters 4 - 7**
+
 | **Students looking for a better understanding of how recruiters use AI tools should see Chapters 8 - 13**

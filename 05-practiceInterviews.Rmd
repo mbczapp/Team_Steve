@@ -14,7 +14,7 @@ Effective interview preparation is essential for students to improve their inter
 
 ![](yoodli%20pic%201.png){width="466"}
 
-Yoodli also has an innovative feature called **Private Yoodli**, which allows Yoodli to discreetly join your virtual meetings as a personal speech coach.It will provide feedback on your expression, clarity, and delivery during meetings to improve your overall communication skills.
+Yoodli also has an innovative feature called **Private Yoodli**, which allows Yoodli to discreetly join your virtual meetings as a personal speech coach. It will provide feedback on your expression, clarity, and delivery during meetings to improve your overall communication skills.
 
 ![](yoodli%20pic%202.png){width="411"}
 
@@ -22,4 +22,4 @@ Yoodli also has an innovative feature called **Private Yoodli**, which allows Yo
 
 [InterviewGPT.ai](https://interviewgpt.ai/) is an AI-powered job interview preparation tool. By using InterviewGPT.ai, users can practice interviews for specific job roles and improve their technical skill sets. It simulates a real-life job interview for users to prepare for various real-life situations. In addition, the tool also provides access to RECRUITGENIUS.AI, a platform for recruiters to discover potential candidates, and CAREERGPT.ai, a platform for job seekers to explore career opportunities.
 
-![](intergptai pic.png){width="443"}
+![](intergptai%20pic.png){width="443"}

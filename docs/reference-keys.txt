@@ -45,7 +45,7 @@ references
 what-is-artificial-intelligence-ai-1
 ai-tools-for-job-searching-1
 resume-and-cover-letter-optimizer
-student-practice-interview
+student-practice-interviews-1
 automated-applications-1
 what-are-applicant-tracking-systems-ats-1
 recruiting-chatbots-1
