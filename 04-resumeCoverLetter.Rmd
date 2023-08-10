@@ -26,8 +26,6 @@ The modern AI resume builder [Kickresume](https://www.kickresume.com/en/) makes 
 
 [LazyApply](https://lazyapply.com/cover-letter-generator) is a free AI cover letter generator to help you create professional cover letters easily. It includes over 20 options of writing tones, such as humble, convincing, appreciative, formal, and inspirational, to assist you with generating the most suitable writing style for your personal cover letter. By simply inputting your personal details like your name, skills, the job information, and the recruiter's name to whom you want to send the cover letter, it helps you generate an appropriate cover letter fast and accurately. Moreover, it offers abundant cover letter templates based on specific organizations or job roles, such as Amazon cover letter and Product Manager cover letter.
 
-![](Lazyapply%20pic.png){width="345"}
-
 ## Rezi
 
 [Rezi](https://www.rezi.ai/) is a professional AI cover letter generator. It provides over 250+ cover letter samples, which allows job seekers to begin the process of creating cover letters. After analyzing your resume, Rezi makes references from your resume experiences and how they fit best for the job role in your cover letter. If you enter the ideal company details and specific skills and position highlights, Rezy will generate a tailored cover letter in seconds. 
