@@ -14,11 +14,11 @@ In today's competitive and ever-changing job market, it is crucial to have a wel
 
 ![](Jobscan%20findings.png){width="491"}
 
-![](Jobscan%20findings%202.png)
+![](Jobscan%20findings%202.png){width="383"}
 
 ## Kickresume
 
-The modern AI resume builder [Kickresume](https://www.kickresume.com/en/) makes the process from creating to checking a resume much easier than before. It includes a wide range of designer-created templates, a detail-oriented log of changes made to your resume, a drag-and-drop editor, and a easy-to-use one-click design feature. It generates and optimizes well-formatted professional resumes that strongly match with your personalized positions by utilizing various in-build AI tools such as spell checkers, AI text analysis, natural language processing, and style guides. In addition, Kickresume offers an unique feature that allows users to upload a video introduction as an alternative  job submission method instead of traditional resume format. This video can help employers better understand your strengths and skills. All these features make Kickresume a great platform for job seekers to improve their professional credentials and create a high-quality resume in a short amount of time.
+The modern AI resume builder [Kickresume](https://www.kickresume.com/en/) makes the process from creating to checking a resume much easier than before. It includes a wide range of designer-created templates, a detail-oriented log of changes made to your resume, a drag-and-drop editor, and a easy-to-use one-click design feature. It generates and optimizes well-formatted professional resumes that strongly match with your personalized positions by utilizing various in-build AI tools such as spell checkers, AI text analysis, natural language processing, and style guides. In addition, Kickresume offers an unique feature that allows users to upload a video introduction as an alternative job submission method instead of traditional resume format. This video can help employers better understand your strengths and skills. All these features make Kickresume a great platform for job seekers to improve their professional credentials and create a high-quality resume in a short amount of time.
 
 ![](Kickresume%20pic.png){width="525"}
 
@@ -26,11 +26,11 @@ The modern AI resume builder [Kickresume](https://www.kickresume.com/en/) makes 
 
 [LazyApply](https://lazyapply.com/cover-letter-generator) is a free AI cover letter generator to help you create professional cover letters easily. It includes over 20 options of writing tones, such as humble, convincing, appreciative, formal, and inspirational, to assist you with generating the most suitable writing style for your personal cover letter. By simply inputting your personal details like your name, skills, the job information, and the recruiter's name to whom you want to send the cover letter, it helps you generate an appropriate cover letter fast and accurately. Moreover, it offers abundant cover letter templates based on specific organizations or job roles, such as Amazon cover letter and Product Manager cover letter.
 
-![](Lazyapply%20pic.png)
+![](Lazyapply%20pic.png){width="345"}
 
 ## Rezi
 
-Rezi is a professional AI cover letter generator. It provides over 250+ cover letter samples, which allows job seekers to begin the process of creating cover letters. After analyzing your resume, Rezi makes references from your resume experiences and how they fit best for the job role in your cover letter. If you enter the ideal company details and specific skills and position highlights, Rezy will generate a tailored cover letter in seconds. 
+[Rezi](https://www.rezi.ai/) is a professional AI cover letter generator. It provides over 250+ cover letter samples, which allows job seekers to begin the process of creating cover letters. After analyzing your resume, Rezi makes references from your resume experiences and how they fit best for the job role in your cover letter. If you enter the ideal company details and specific skills and position highlights, Rezy will generate a tailored cover letter in seconds. 
 
 ![](Rezi%20pic.png){width="528"}
 
@@ -38,4 +38,4 @@ Rezi is a professional AI cover letter generator. It provides over 250+ cover le
 
 [Cover Letter Simple.ai](https://coverlettersimple.ai/) is unique from other cover letter tools mentioned above as it focuses on generating unique and job-specific cover letters. After entering your ideal job title, it searches billions of data points to retrieve relevant information for the job, such as expected skills and accomplishments. It then generates impressive cover letters that help you stand out from other applicants.
 
-![](coverlettsimpleai pic.png){width="653"}
+![](coverlettsimpleai%20pic.png){width="653"}
