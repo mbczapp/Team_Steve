@@ -10,8 +10,8 @@ ai-tools-for-job-searching
 resume-and-cover-letter-optimizers
 resume.com
 jobscan
-resunate-replace
-jasper-ai
+kickresume
+lazyapply
 rezi
 cover-letter-simple.ai
 student-practice-interviews
