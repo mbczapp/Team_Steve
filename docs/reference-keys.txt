@@ -16,6 +16,9 @@ rezi
 cover-letter-simple.ai
 student-practice-interviews
 automated-applications
+teal
+simplify
+lazyapply-1
 what-are-applicant-tracking-systems-ats
 recruiting-chatbots
 resume-and-cover-letter-screening
