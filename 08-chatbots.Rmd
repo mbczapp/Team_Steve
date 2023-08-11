@@ -1,26 +1,32 @@
 # Recruiting Chatbots
 
-Recruiting chatbot is an automated system that works through pre-programmed responses or artificial intelligence without a human operator. Recruiting chatbots, also known as HR chatbots, are revolutionizing the recruitment process by automating tasks like screening candidates, answering FAQs, scheduling interviews, and guiding onboarding. Designed to enhance efficiency and consistency, these bots are available 24/7 and can be a cost-effective solution for organizations. Moreover, chatbots are continually improving in sophistication. Surprisingly, **73% of candidates didn't realize they were communicating with a chatbot** when making inquiries about their applications with businesses (1). An increasing number of organizations are embracing AI-driven tools to enhance their recruitment processes. A new study revealed that, of the companies using AI tools, **23% implemented them in their HR divisions** (1). With the development of recruiting chatbots, students have to learn to interact with chatbots to maximize their chance of being hired. Here are some popular recruiting chatbots:
+Recruiting chatbot is an automated system that works through pre-programmed responses or artificial intelligence without a human operator. Recruiting chatbots, also known as HR chatbots, are revolutionizing the recruitment process by automating tasks like screening candidates, answering FAQs, scheduling interviews, and guiding onboarding. Designed to enhance efficiency and consistency, these bots are available 24/7 and can be a cost-effective solution for organizations.
+
+Moreover, chatbots are continually improving in sophistication. Surprisingly, **73% of candidates didn't realize they were communicating with a chatbot** when making inquiries about their applications with businesses (1). An increasing number of organizations are embracing AI-driven tools to enhance their recruitment processes. A new study revealed that, of the companies using AI tools, **23% implemented them in their HR divisions** (1). With the development of recruiting chatbots, students have to learn to interact with chatbots to maximize their chance of being hired. Here are some popular recruiting chatbots:
 
 ## Ideal
 
-[Ideal](https://ideal.com/) leverages cutting-edge AI to revolutionize the hiring process, enabling businesses to screen and shortlist candidates with unprecedented speed and accuracy. The system not only [slashes the time-to-fill by up to 70%](https://ideal.com/product/recruiting-chatbot/), but also continuously refines its algorithms based on recruiter feedback, ensuring an ever-improving fit for your organization. By anonymizing details like names, gender, and age, Ideal ensures a bias-free screening, promoting a diverse hiring process. The platform also factors in external evaluations, from chatbot interactions to assessments, to provide a comprehensive grading of candidates. Moreover, it aids in tapping into your existing candidate pool, re-engaging past prospects who are already familiar with your brand, thus optimizing candidate acquisition costs. With the ability to automate a significant portion of top-funnel interactions and seamlessly integrate with your existing ATS, Ideal empowers recruiters to prioritize more strategic tasks, while candidates enjoy a tailored experience.
+[Ideal](https://ideal.com/) leverages cutting-edge AI to revolutionize the hiring process, enabling businesses to screen and shortlist candidates with unprecedented speed and accuracy. The system not only [slashes the time-to-fill by up to 70%](https://ideal.com/product/recruiting-chatbot/), but also continuously refines its algorithms based on recruiter feedback, ensuring an ever-improving fit for your organization. By anonymizing details like names, gender, and age, Ideal ensures a bias-free screening, promoting a diverse hiring process.
 
-![](ideal pic 1.png){width="525"}
+The platform also factors in external evaluations, from chatbot interactions to assessments, to provide a comprehensive grading of candidates. Moreover, it aids in tapping into your existing candidate pool, re-engaging past prospects who are already familiar with your brand, thus optimizing candidate acquisition costs. With the ability to automate a significant portion of top-funnel interactions and seamlessly integrate with your existing ATS, Ideal empowers recruiters to prioritize more strategic tasks, while candidates enjoy a tailored experience.
 
-![](ideal pic 2.png){width="343"}
+![](ideal%20pic%201.png){width="525"}
+
+![](ideal%20pic%202.png){width="343"}
 
 ## HireVue
 
-[HireVue](https://www.hirevue.com/) revolutionizes the hiring process through AI-driven tools, offering unparalleled flexibility and efficiency to both recruiters and candidates. With mobile-friendly, text-powered solutions, candidates can effortlessly schedule and partake in interviews anytime, anywhere, enhancing the overall experience. Recruiters benefit from the automation, which reduces time-intensive tasks like manual scheduling and candidate engagement. The heart of HireVue is its commitment to fair and consistent hiring, relying on science-backed assessments rather than subjective instincts. Over [30 million interviews have informed HireVue's models](https://www.hirevue.com/our-science), emphasizing skills and behaviors over irrelevant details. The platform seamlessly integrates with existing ATS systems, eliminating time-consuming switches between platforms. Innovative features like HireVue Builder provide structured interviewing tools that standardize the interview process, ensuring fairer outcomes. Automated, conversational AI tools via SMS and Whatsapp streamline candidate interactions, making the process more engaging. With HireVue, the focus shifts from chasing candidates to efficiently and fairly hiring the best talent.
+[HireVue](https://www.hirevue.com/) revolutionizes the hiring process through AI-driven tools, offering unparalleled flexibility and efficiency to both recruiters and candidates. With mobile-friendly, text-powered solutions, candidates can effortlessly schedule and partake in interviews anytime, anywhere, enhancing the overall experience. Recruiters benefit from the automation, which reduces time-intensive tasks like manual scheduling and candidate engagement.
 
-![](hirevue pic.png){width="535"}
+The heart of HireVue is its commitment to fair and consistent hiring, relying on science-backed assessments rather than subjective instincts. Over [30 million interviews have informed HireVue's models](https://www.hirevue.com/our-science), emphasizing skills and behaviors over irrelevant details. The platform seamlessly integrates with existing ATS systems, eliminating time-consuming switches between platforms. Innovative features like HireVue Builder provide structured interviewing tools that standardize the interview process, ensuring fairer outcomes. Automated, conversational AI tools via SMS and Whatsapp streamline candidate interactions, making the process more engaging. With HireVue, the focus shifts from chasing candidates to efficiently and fairly hiring the best talent.
+
+![](hirevue%20pic.png){width="535"}
 
 ## Wade & Wendy
 
 [Wade & Wendy](https://wadeandwendy.ai/) revolutionizes talent acquisition by harnessing the power of AI, allowing recruiters to automate repetitive tasks and focus on enhancing the human touch in the recruitment process. Wendy facilitates 24/7 candidate engagement, parsing job descriptions to deliver personalized chats, and automating tasks from sourcing to scheduling, seamlessly integrating with existing recruitment systems. Meanwhile, Wade acts as a dynamic career guide for talent, personalizing job suggestions based on interactions. As the work landscape evolves with technology and shifting values, Wade & Wendy ensure that recruiting remains human-centric, efficient, and adaptable, providing a symbiotic relationship between AI and human decision-making in the recruitment arena.
 
-![](wadewendy pic.png){width="524"}
+![](wadewendy%20pic.png){width="524"}
 
 ## What You (A Student) Can Do!
 
@@ -28,36 +34,30 @@ For a student to successfully navigate and benefit from recruiting chatbots duri
 
 -   **Familiarize with the common platforms and tools and algorithms** that companies use. This knowledge can help anticipate what to expect and how to interact with recruiting chatbots.
 
-```{=html}
 <!-- -->
-```
+
 -   When interacting with chatbots, **use clear language and be specific in your queries**. Avoid slang, abbreviations, or overly complex vocabulary since chatbots operate best with straightforward information.
 
-```{=html}
 <!-- -->
-```
+
 -   Chatbots are programmed to screen candidates based on predefined criteria. Anticipate and **prepare for standard questions** related to qualifications, experience, and job preferences.
 
-```{=html}
 <!-- -->
-```
+
 -   Make sure your **resume or online profile highlights your main qualifications, skills, and achievements** in a clear and organized manner. This helps the chatbot easily identify and match your profile with suitable roles.
 
-```{=html}
 <!-- -->
-```
+
 -   Given the 24/7 availability of chatbots, take advantage of this by **actively engaging with them**, asking questions, and seeking information about job roles, company culture, or application processes.
 
-```{=html}
 <!-- -->
-```
+
 -   If you feel the chatbot isn't adequately addressing your concerns or if you have specific questions, **ask for human intervention or look for alternative communication channels**.
 
 -   While engaging with chatbots, **be wary of sharing overly personal or sensitive information** unless you're sure of the platform's privacy standards.
 
-```{=html}
 <!-- -->
-```
+
 -   Some advanced chatbots offer the option to **provide feedback**. Utilize this to clarify misunderstandings or to improve future interactions.
 
 -   While chatbots are a valuable tool, **don't rely solely on them**. Use additional resources, such as career counselors, networking events, and traditional job platforms to complement your job search.

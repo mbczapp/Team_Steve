@@ -6,7 +6,7 @@
 
 ## AI Tools for Job Searching
 
-## Resume and Cover Letter Optimizer
+## Resume and Cover Letter Optimizers
 
 All references are linked in the chapter itself.
 
@@ -43,4 +43,3 @@ All references are linked in the chapter itself.
 ## Skill Assessments
 
 ## Predicting Candidates' Success
-
