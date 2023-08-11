@@ -8,11 +8,15 @@
 
 ## Resume and Cover Letter Optimizer
 
+All references are linked in the chapter itself.
+
 ## Student Practice Interviews
 
 1.  <https://app.yoodli.ai/blog/the-top-ai-tools-for-interview-preparation-in-2023>
 
 ## Automated Applications
+
+All references are linked in the chapter itself.
 
 ## What are Applicant Tracking Systems (ATS)?
 
@@ -20,7 +24,15 @@
 
 ## Recruiting Chatbots
 
+1.  <https://www.selectsoftwarereviews.com/buyer-guide/hr-chat-bots>
+
+2.  <https://www.sensehq.com/blog/top-4-recruiting-chatbots>
+
+    (delete 2? not sure if it was used)
+
 ## Resume and Cover Letter Screening
+
+All references are linked in the chapter itself.
 
 ## Video Interview Assessments
 
@@ -31,3 +43,4 @@
 ## Skill Assessments
 
 ## Predicting Candidates' Success
+

@@ -6,7 +6,7 @@ The functioning of AI involves the processing of extensive labeled training data
 
 AI programming revolves around cognitive skills that encompass:
 
-**1. Learning**: The acquisition of data and creation of algorithms that convert it into actionable information, providing step-by-step instructions for specific tasks to computing devices.
+**1. Learning:** The acquisition of data and creation of algorithms that convert it into actionable information, providing step-by-step instructions for specific tasks to computing devices.
 
 **2. Reasoning:** The selection of appropriate algorithms to achieve desired outcomes.
 
