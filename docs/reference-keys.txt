@@ -7,6 +7,8 @@ xinqian-dai
 yousuf-altameemi
 what-is-artificial-intelligence-ai
 ai-tools-for-job-searching
+talentprise
+pyjama-jobs
 resume-and-cover-letter-optimizers
 resume.com
 jobscan
@@ -47,6 +49,13 @@ general-preparation
 countering-the-ai-tools
 skill-assessments
 predicting-candidates-success
+personality-and-trait-assessments
+zelfium
+predictive-models-for-roles
+affinix
+behavior-analysis
+the-pi-behavioral-assessment
+what-you-a-student-can-do-3
 conclusion
 our-working-process
 references

@@ -1,1 +1,41 @@
 # Predicting Candidates' Success
+
+While the ideal job position is a two-way street in which the candidate wants the company and the company wants the candidate, ultimately, the company wants to know how you will perform and help it improve its overall performance. One way to do this is to use AI tools that can predict the success you may have in the role and how you conduct yourself. The following subsections describe exactly what this is and how it works.
+
+![](predict success.jpg){width="311"}
+
+## Personality and Trait Assessments
+
+One way that recruiters may predict candidates' success in a role is by better understanding their personality traits. Recruiters can now leverage AI tools to assess these personality traits. Ultimately, they want to know how you may interact with other people and what you may do in various situations.
+
+### Zelfium
+
+[Zelfium](https://www.zelfium.com/#/) distills 300+ scientifically verified personality factors into 7 major traits, 14 sub-traits, and 36 components using machine learning, particularly neural deep networks. Zelfium's innovation lies in its use of AI to analyze user responses and behaviors, resulting in a highly accurate personality profile. This dynamic process continuously refines results, offering a comprehensive understanding of human personalities worldwide.
+
+## Predictive Models for Roles
+
+Organizations can leverage their historical data to build predictive models for specific roles, which are often trained by AI algorithms that pull from previous or current employees at the company who have been successful. This can then be used in assessing potential candidates in the future.
+
+### Affinix
+
+[Affinix](https://www.peoplescout.com/technology/) by PeopleScout is an innovative AI sourcing tool driven by predictive analytics technology. It assists employers in identifying success-predicting qualities and swiftly locating candidates who align with these traits across various platforms. The tool's predictive capabilities improve over time as recruiters input more data, culminating in refined candidate predictions. This ensures that AffinixTM maximizes its predictive analytics potential and enhances the efficiency of talent acquisition.
+
+## Behavior Analysis
+
+Similar to personality and trait assessments, companies may use AI tools to predict the behavior of candidates in a working environment and how that may impact their ability to succeed in a specific role.
+
+### The PI Behavioral Assessment
+
+[The PI Behavioral Assessment](https://www.predictiveindex.com/assessments/behavioral-assessment/?creative=655858294556&keyword=predictive%20personality%20test&matchtype=b&network=g&device=c&utm_source=google&utm_medium=ppc&utm_content=bofu-brand-low-value&device=c&matchtype=b&utm_term=predictive%20personality%20test&gad=1&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfw2xB87svR2BFTESJ6nSMzDqIs8ni8VKXiD1robOSabO6uU7wTWjagaAoHUEALw_wcB) is an advanced AI tool that goes beyond traditional personality tests. It quickly uncovers an individual's natural behavioral drives and needs, helping predict their actions in various situations. By answering two questions about expected work behavior and self-perceived behavior, participants are assigned one of 17 Reference Profiles, offering insights into their innate tendencies. The assessment measures four key behavioral drives: dominance, which influences control; extroversion, driving social interaction; patience, seeking stability; and formality, promoting rule conformity. This tool empowers organizations to make informed hiring and team-building decisions, enhancing workplace dynamics and performance.
+
+## What You (A Student) Can Do!
+
+-   Use assessment results to **pinpoint areas for improvement**, and dedicate time to refine these skills and behaviors through online courses, workshops, and self-study. Strengthening your abilities will position you as a competitive candidate in job applications and promotions.
+
+-   Leverage behavioral assessments and personality questionnaires to **gain deeper insights into your strengths, weaknesses, and behavioral traits**. Armed with this self-awareness, tailor your career path to match your attributes and work on any areas that could be holding you back.
+
+-   Tap into predictive analytics tools to **stay attuned to shifting job market trends** and the skills in demand. Use this foresight to adjust your educational path, ensuring it aligns with these trends. If you're already employed, identify opportunities for upskilling or reskilling to remain valuable in your role or when pursuing new avenues.
+
+-   Take your time when completing these and **answer questions thoughtfully**. You want recruiters to have an accurate representation of who you are as a person and how you can contribute to their company.
+
+-   Don't stress too much about this part of the recruiting process (if it exists at the company you are applying to). **Be confident in who you are as a person and what you bring to the table**.
