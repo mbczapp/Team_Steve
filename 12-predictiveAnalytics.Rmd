@@ -2,7 +2,7 @@
 
 While the ideal job position is a two-way street in which the candidate wants the company and the company wants the candidate, ultimately, the company wants to know how you will perform and help it improve its overall performance. One way to do this is to use AI tools that can predict the success you may have in the role and how you conduct yourself. The following subsections describe exactly what this is and how it works.
 
-![](predict success.jpg){width="311"}
+![](predict%20success.jpg){width="311"}
 
 ## Personality and Trait Assessments
 
@@ -30,12 +30,10 @@ Similar to personality and trait assessments, companies may use AI tools to pred
 
 ## What You (A Student) Can Do!
 
--   Use assessment results to **pinpoint areas for improvement**, and dedicate time to refine these skills and behaviors through online courses, workshops, and self-study. Strengthening your abilities will position you as a competitive candidate in job applications and promotions.
+-   Use assessment results to **pinpoint areas for improvement**, and dedicate time to refine these skills and behaviors through online courses, workshops, and self-study. Strengthening your abilities will position you as a competitive candidate in job applications and promotions
 
--   Leverage behavioral assessments and personality questionnaires to **gain deeper insights into your strengths, weaknesses, and behavioral traits**. Armed with this self-awareness, tailor your career path to match your attributes and work on any areas that could be holding you back.
+-   Leverage behavioral assessments and personality questionnaires to **gain deeper insights into your strengths, weaknesses, and behavioral traits**. Armed with this self-awareness, tailor your career path to match your attributes and work on any areas that could be holding you back
 
--   Tap into predictive analytics tools to **stay attuned to shifting job market trends** and the skills in demand. Use this foresight to adjust your educational path, ensuring it aligns with these trends. If you're already employed, identify opportunities for upskilling or reskilling to remain valuable in your role or when pursuing new avenues.
+-   Tap into predictive analytics tools to **stay attuned to shifting job market trends** and the skills in demand. Use this foresight to adjust your educational path, ensuring it aligns with these trends. If you're already employed, identify opportunities for upskilling or reskilling to remain valuable in your role or when pursuing new avenues
 
--   Take your time when completing these and **answer questions thoughtfully**. You want recruiters to have an accurate representation of who you are as a person and how you can contribute to their company.
-
--   Don't stress too much about this part of the recruiting process (if it exists at the company you are applying to). **Be confident in who you are as a person and what you bring to the table**.
+-   Take your time when completing these and **answer questions thoughtfully**. You want recruiters to have an accurate representation of who you are as a person and how you can contribute to their company

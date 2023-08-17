@@ -1,25 +1,25 @@
 # Student Practice Interviews
 
-Effective interview preparation is essential for students to improve their interview skills and achieve their career goals in the long term. With the evolution of AI, many interview practice AI tools are introduced to simulate real interview scenarios to help students hone communication skills. In this section, we will delve into a range of AI-powered interview practice tools that help students stand out from other candidates.
+Effective interview preparation is essential for students to improve their interview skills and achieve their career goals in the long term. With the evolution of AI, many interview practice AI tools are introduced to simulate real interview scenarios to help students hone communication skills. In this section, we will delve into a few AI-powered interview practice tools that help students stand out from other candidates.
 
 ## Standout
 
-[Standout](https://standout.com/) is a mock interview practice platform for job seekers to prepare for and practice for interviews. Its unique Intelligent Mirror™ technology provides users with personalized AI feedback of verbal behaviors, non-verbal behaviors, and communication missteps to help you reflects on your performance. Users can record, review, and re-record interview answers to various interview questions. Following the video recording, StandOut will analyze responses for hesitations, enunciations, and response timing to provide feedback on interviewing skills.
+[Standout](https://standout.com/) is a mock interview practice platform for job seekers to prepare for and practice for interviews. Its unique Intelligent Mirror™ technology provides users with personalized AI feedback of verbal behaviors, non-verbal behaviors, and communication missteps to help you reflect on your performance. Users can record, review, and re-record interview answers to various interview questions. Following the video recording, StandOut will analyze responses for hesitations, enunciations, and response timing to provide feedback on interviewing skills.
 
 ![](standout%20pic.png){width="446"}
 
 ## Yoodli
 
-[Yoodli](https://app.yoodli.ai/) is an AI-powered communication coach for job seekers to practice interviews and enhance interview skills. Besided general interview answer evaluations, Yoodli can evaluate users' speaking patterns, speech, and body language. Users can find out exactly how fast or slow you speak, if your word choice can be improved, and which filler words you use (and how often), among other insights (1). After uploading videos, users will get coaching comments and actionable feedback with a summary of the video's main points. Additionally, it offers a library of mock interview question with various categories, such as general, marketing, and consulting. You could even practice interview questions at random by using the "Surprise Me" function (1).
+[Yoodli](https://app.yoodli.ai/) is an AI-powered communication coach for job seekers to practice interviews and enhance interview skills. Besided general interview answer evaluations, Yoodli can evaluate users' speaking patterns, speech, and body language. Users can find out exactly how fast or slow you speak, if your word choice can be improved, and which filler words you use (and how often), among other insights (1). After uploading videos, users will get coaching comments and actionable feedback with a summary of the video's main points. Additionally, it offers a library of mock interview question with various categories, such as general, marketing, and consulting. You could even practice interview questions at random by using the "Surprise Me" function.
 
 ![](yoodli%20pic%201.png){width="466"}
 
-Yoodli also has an innovative feature called **Private Yoodli**, which allows Yoodli to discreetly join your virtual meetings as a personal speech coach. It will provide feedback on your expression, clarity, and delivery during meetings to improve your overall communication skills.
+Yoodli also has an innovative feature called **Private Yoodli**, which allows Yoodli to discreetly join your virtual meetings as a personal speech coach (1). It will provide feedback on your expression, clarity, and delivery during meetings to improve your overall communication skills.
 
 ![](yoodli%20pic%202.png){width="411"}
 
 ## InterviewGPT.ai
 
-[InterviewGPT.ai](https://interviewgpt.ai/) is an AI-powered job interview preparation tool. By using InterviewGPT.ai, users can practice interviews for specific job roles and improve their technical skill sets. It simulates a real-life job interview for users to prepare for various real-life situations. In addition, the tool also provides access to RECRUITGENIUS.AI, a platform for recruiters to discover potential candidates, and CAREERGPT.ai, a platform for job seekers to explore career opportunities.
+[InterviewGPT.ai](https://interviewgpt.ai/) is an AI-powered job interview preparation tool. By using InterviewGPT.ai, users can practice interviews for specific job roles and improve their technical skill sets (2). In addition, the tool also provides access to RecruitGenius.ai and CareerGPT.ai. The former is used by recruiters to find suitable candidates for open positions, while the latter is for candidates to explore career opportunities and paths (2).
 
-![](intergptai%20pic.png){width="443"}
+![](intergptai%20pic.png){width="471"}

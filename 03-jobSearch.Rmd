@@ -36,4 +36,4 @@ Talentprise's comprehensive approach provides numerous advantages:
 
 **6. Comprehensive Job Information:** Each job post on Pyjama Jobs includes essential details such as salary ranges, providing job seekers with crucial insights to help them make informed decisions about potential opportunities.
 
-![](pyjama jobs.png){width="544"}
+![](pyjama%20jobs.png){width="544"}

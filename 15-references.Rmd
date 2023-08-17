@@ -10,11 +10,13 @@ All references are linked in the chapter itself.
 
 ## Resume and Cover Letter Optimizers
 
-All references are linked in the chapter itself.
+1.  <https://measuredability.com/ai-resume-builder/>
+2.  <https://geekflare.com/ai-cover-letter-generators/#:~:text=CoverDoc.AI%20is%20an%20AI,consideration%20insights%20into%20the%20company>.
 
 ## Student Practice Interviews
 
 1.  <https://app.yoodli.ai/blog/the-top-ai-tools-for-interview-preparation-in-2023>
+2.  <https://theresanaiforthat.com/ai/interviewgpt/?ref=search&term=Artist%20interviews>
 
 ## Automated Applications
 
@@ -30,7 +32,7 @@ All references are linked in the chapter itself.
 
 2.  <https://www.sensehq.com/blog/top-4-recruiting-chatbots>
 
-    (delete 2? not sure if it was used)
+3.  <https://www.jobvite.com/glossary/recruiting-chatbot/#:~:text=A%20recruiting%20chatbot%20is%20an,steps%20in%20the%20application%20process>.
 
 ## Resume and Cover Letter Screening
 
@@ -44,4 +46,10 @@ All references are linked in the chapter itself.
 
 ## Skill Assessments
 
+1.  <https://www.graduatesfirst.com/gamified-assessments>
+2.  <https://vervoe.com/ai-assessment-tools/>
+3.  <https://mconsultingprep.com/bcg-pymetrics-test>
+
 ## Predicting Candidates' Success
+
+All references are linked in the chapter itself.

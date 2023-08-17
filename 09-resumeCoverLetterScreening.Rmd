@@ -18,19 +18,19 @@ The above picture shows the management dashboard for the recruiter to track cand
 
 Skeeled's remarkable utility extends further, catering to the bespoke demands of each enterprise. By accommodating customizable criteria such as specific driver's license categories, work permits, and other specialized prerequisites, Skeeled ensures a comprehensive assessment tailored to individual company prerequisites.
 
-![](skeeled pic.png){width="509"}
+![](skeeled%20pic.png){width="509"}
 
 ## Affinda
 
 The standout feature of [Affinda](https://www.affinda.com/resume-parser)'s offering is its advanced resume parser, powered by the robust AI engine known as Vega. One of the key advantages of Affinda lies in its adaptability. The machine learning algorithms underpinning the parser continually evolve, ensuring that it can cater to a wide array of recruitment scenarios, no matter how unique or specialized they may be. Unlike traditional parsers that rely on rigid keyword or grammar-based rules, Affinda harnesses the power of Natural Language Processing (NLP) to comprehend words and phrases in a manner akin to human understanding. This intuitive approach enhances the accuracy and relevance of parsed data, enabling recruiters to make more informed decisions.
 
-![](affinda pic.png){width="378"}
+![](affinda%20pic.png){width="378"}
 
 ## What You (A Student) Can Do!
 
 Understanding what tools recruiters use to filter our candidates is the first step. By understanding the most popular tools, a few of which are referenced above, you can try to adjust your resume and cover letters to match what these tools search for and filter on. There are additional [recommended best practices](https://www.indeed.com/career-advice/resumes-cover-letters/resume-ai#:~:text=Instead%20of%20using%20a%20visual,this%20kind%20of%20complex%20information.) you can follow to ensure this step of the recruitment process is not where you fall out of the race with the company of your dreams:
 
--   Triple check (or even quadruple check!) that there are **no typos or mispelled words**. It\'s much easier for an AI tool to discover these errors than a human
+-   Triple check (or even quadruple check!) that there are **no typos or mispelled words**. It's much easier for an AI tool to discover these errors than a human
 
 -   Use a **traditional, standard, and clean** resume format
 

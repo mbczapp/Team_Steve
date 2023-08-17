@@ -1,1 +1,51 @@
 # Skill Assessments
+
+In today's dynamic job market, where diverse candidate profiles are the norm, there's a pressing need for robust and accurate recruitment measures. Skill assessments, as a result, have emerged as an essential tool, allowing companies to authenticate abilities and promote a hiring process grounded in merit and transparency. At the forefront of this evolution is the incorporation of artificial intelligence (AI) into assessment techniques. AI-driven assessment tools, enhanced by machine learning capabilities, are reshaping the way organizations approach recruitment. Through these tools, enterprises can not only pinpoint top talent but also delve deeper into their competencies beyond what traditional resumes reveal (1). Below is an in-depth analysis of some of the innovative AI-powered assessment tools that are redefining recruitment standards (2).
+
+## DevSkiller
+
+[DevSkiller](https://devskiller.com/) offers a sophisticated solution tailored to the needs of technical recruitment. With over [5,000 pre-set tasks](https://devskiller.com/talentscore/) that closely mirror real-world challenges, it ensures thorough evaluations of candidates across various technical areas such as front-end, back-end, mobile, DevOps, and security.
+
+Prioritizing a genuine testing environment, DevSkiller allows candidates to work within their usual development settings and engage in CI/CD processes based on Git repositories. This approach evaluates more than just coding skills---it delves into a candidate's expertise with specific libraries, frameworks, tools, and databases.
+
+The platform's "CodePair with video" feature enhances the evaluation process by enabling remote interviews. This way, recruiters can directly observe a candidate's problem-solving approach and thinking process. For organizational ease, DevSkiller integrates smoothly with Applicant Tracking Systems (ATS) and offers customization options for branding. Its advanced reporting tools assist recruiters in making well-informed decisions. Whether using the platform's standard tests or tailoring assessments to specific roles, DevSkiller proves to be a valuable tool for tech recruitment.
+
+![](devskiller%20picc.png){width="455"}
+
+## TestGorilla
+
+[TestGorilla](https://www.testgorilla.com/?utm_term=testgorilla&utm_campaign=TestGorilla+%7C+Branded+I+SKAG+AdGroups+%7C+US&utm_source=google&utm_medium=cpc&hsa_acc=4932434860&hsa_cam=12598017525&hsa_grp=118410898783&hsa_ad=537212466646&hsa_src=g&hsa_tgt=kwd-927907651583&hsa_kw=testgorilla&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw5_GmBhBIEiwA5QSMxLAMrdiiKyGt8ZjFz4BL_vP1ktTPpNCugXM2c48T20vqlbD_7lhF1hoCWDEQAvD_BwE) revolutionizes the recruitment process, making the traditional reliance on CVs obsolete. Instead of sifting through piles of resumes, this platform offers talent assessments that pinpoint the most suitable candidates, making the hiring process quicker, streamlined, and devoid of biases. By utilizing a library of [358 scientifically-backed tests](https://www.testgorilla.com/?utm_term=testgorilla&utm_campaign=TestGorilla+%7C+Branded+I+SKAG+AdGroups+%7C+US&utm_source=google&utm_medium=cpc&hsa_acc=4932434860&hsa_cam=12598017525&hsa_grp=118410898783&hsa_ad=537212466646&hsa_src=g&hsa_tgt=kwd-927907651583&hsa_kw=testgorilla&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw5_GmBhBIEiwA5QSMxLAMrdiiKyGt8ZjFz4BL_vP1ktTPpNCugXM2c48T20vqlbD_7lhF1hoCWDEQAvD_BwE), TestGorilla provides predictions on real-world job performance, assessing both job-specific skills such as coding and broader competencies like critical thinking.
+
+Beyond skill assessments, the platform's unique personality and value tests offer a holistic view of candidates, treating them as individuals rather than mere profiles on paper. This results in a more efficient recruitment process where screening CVs and preliminary interviews become redundant. The automated grading system ranks candidates, enabling recruiters to view video responses and evaluate potential hires in a fraction of the usual time.
+
+Moreover, TestGorilla champions diversity and equal opportunity. The platform ensures that all candidates receive a fair chance, thus promoting diverse team compositions which are known to enhance performance. In the pursuit of offering a gratifying experience, the platform's professionally crafted tests act as an extension of the company's branding, engaging and motivating candidates to put their best foot forward.
+
+![](testgorilla%20pic.png){width="418"}
+
+## Pymetrics
+
+[Pymetrics](https://www.pymetrics.ai/) champions a transformative approach to talent assessment, placing potential over traditional qualifications. Using gamified assessments, the platform objectively evaluates cognitive and behavioral traits, offering insights beyond conventional resumes.
+
+Tailoring its approach, Pymetrics crafts bespoke talent algorithms for each company, ensuring alignment with unique definitions of top talent. This customization not only streamlines hiring but also bolsters engagement, mobility, and retention. Regular bias-checks on these algorithms reaffirm the platform's commitment to ethical talent acquisition.
+
+Instead of rejecting, Pymetrics focuses on redirecting candidates, ensuring everyone finds their niche. The platform's "Core Games" swiftly assess numerical and logical reasoning, while its suite of patented games paints a detailed behavioral profile in less than 30 minutes (3).
+
+Integrated digital interviews enrich the assessment process, with role-specific questions ensuring unbiased evaluations. Recruiters benefit from collaborative features, like shareable videos, while candidates enjoy a flexible interview experience with practice and re-recording options.
+
+![](pymetrics%20pic2.png){width="456"}
+
+![](pymetrics%20pic1.png){width="363"}
+
+Boston Consulting Group (BCG), a well-established management consulting firm that is often the target of University of Michigan students, uses Pymetrics in their candidate recruiting process. To see how BCG uses it, please refer to the following link: <https://mconsultingprep.com/bcg-pymetrics-test>
+
+## What You (A Student) Can Do!
+
+There is only so much preparation and practice you as a student can do to maximize your success on these skill assessments. A few intuitive tips and best practices can be found below:
+
+-   **Get quality sleep** before doing skill assessments
+
+-   **Practice** commonly required skills
+
+-   **Touch up on skills** mentioned in the job listing
+
+-   **Be honest** while completing the assessments

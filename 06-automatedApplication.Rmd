@@ -6,13 +6,13 @@ With an overwhelming amount of job postings across countless platforms and websi
 
 [Teal](https://www.tealhq.com/tools/autofill-job-applications) offers a comprehensive autofill functionality designed to revolutionize job search process. By simply installing Teal's free Chrome extension from the Google Chrome Web Store, users gain access to a range of powerful features. Seamlessly uploading their resume or LinkedIn profile into the AI Resume Builder sets the stage for a seamless experience. With the ability to automatically detect job applications across nearly 50 diverse job boards, Teal empowers job seekers to save valuable time and apply for roles swiftly. The true magic of Teal's autofill feature unfolds after saving a desired job opportunity. With just a click, users can harness the power of Teal's AI to effortlessly respond to various application questions, whether they're as straightforward as providing a "first name" or as complex as explaining "Why do you want to work here?"
 
-![](teal pic.png){width="396"}
+![](teal%20pic.png){width="396"}
 
 ## Simplify
 
 [Simplify](https://simplify.jobs/autofill#how-it-works) was born out of the founders' personal experiences and had been applied to countless positions during their college years. Simplify serves as a dedicated job assistant, guiding users through each stage---from tailored job exploration to effortless one-click applications with the Simplify Copilot extension to seamless application tracking via a personalized dashboard. Presently, many users entrust Simplify with their recruitment endeavors, leading to an impressive five million job applications managed within a year. 
 
-![](simplify pic.png){width="373"}
+![](simplify%20pic.png){width="373"}
 
 ## LazyApply
 
@@ -20,4 +20,4 @@ With an overwhelming amount of job postings across countless platforms and websi
 
 Particularly noteworthy is LazyApply's Linkedin Job application bot, replete with an array of remarkable features and filters. Job seekers gain the ability to meticulously customize their search, handpicking desired skills, preferred job locations, and the number of applications to submit in a single session. The bot's proficiency extends to refined job filtering, encompassing parameters such as location, salary, posting date, experience level, industry, job title, and remote or onsite work options. 
 
-![](lazyapply pic 2.png){width="370"}
+![](lazyapply%20pic%202.png){width="370"}
