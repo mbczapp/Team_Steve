@@ -40,7 +40,7 @@ All references are linked in the chapter itself.
 
 ## Video Interview Assessments
 
-(1) [https://www.hubert.ai/insights/what-are-ai-interviews\\](https://www.hubert.ai/insights/what-are-ai-interviews%5C)
+(1) <https://www.hubert.ai/insights/what-are-ai-interviews>
 
 (2) <https://theconversation.com/facial-analysis-ai-is-being-used-in-job-interviews-it-will-probably-reinforce-inequality-124790>
 
