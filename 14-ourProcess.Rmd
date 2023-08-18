@@ -2,7 +2,7 @@
 
 ## Mid-Point Check-In Survey
 
-Only 4/5 of our team members completed the mid-point check-in survey, but we obtained the remaining team member's feedback at a later date. The majority of the anonymous feedback was very positive. There was a 1 out of 5 rating for \"Listening\" but this was just a mistake one team member made when filling out their survey. Every category was ranked at least a 3 out of 5, with a majority of them being a 4 or 5. It seemed everybody has happy with the direction of our team and project outputs so far. 
+Only 4/5 of our team members completed the mid-point check-in survey, but we obtained the remaining team member's feedback at a later date. The majority of the anonymous feedback was very positive. There was a 1 out of 5 rating for "Listening" but this was just a mistake one team member made when filling out their survey. Every category was ranked at least a 3 out of 5, with a majority of them being a 4 or 5. It seemed everybody has happy with the direction of our team and project outputs so far. 
 
 **What is one thing we have been doing really well as a team?**
 
@@ -26,21 +26,21 @@ Our group truly showed the essence of teamwork. Whenever we encountered obstacle
 
 ## Managing Bookdown and GitHub
 
-Going into this project, none of us had any significant experience with GitHub nor Bookdown. However, a few members of our team had prior experience with R and RStudio. Michael invested time early in the project to set up the GitHub repository and the GitHub Pages website. Team members individually set up their RStudio and downloaded the required packages and installs to be able to push and pull to GitHub. We had a few impromptu meetings to ensure everybody\'s technology was working smoothly and there were no significant issues. During this troubleshooting stage, we relied on each other and Google to gather information and knowledge to debug issues we ran into. Additionally, we also documented the steps and procedures to properly commit, push, pull, and build the book. Overall, while we came into this project with minimal experience in this area, our commitment to learning and using each other as a resource proved to be invaluable to our ability to build a respectable website.
+Going into this project, none of us had any significant experience with GitHub nor Bookdown. However, a few members of our team had prior experience with R and RStudio. Michael invested time early in the project to set up the GitHub repository and the GitHub Pages website. Team members individually set up their RStudio and downloaded the required packages and installs to be able to push and pull to GitHub. We had a few impromptu meetings to ensure everybody's technology was working smoothly and there were no significant issues. During this troubleshooting stage, we relied on each other and Google to gather information and knowledge to debug issues we ran into. Additionally, we also documented the steps and procedures to properly commit, push, pull, and build the book. Overall, while we came into this project with minimal experience in this area, our commitment to learning and using each other as a resource proved to be invaluable to our ability to build a respectable website.
 
 ## How We Were Agile
 
-Our team embraced the Agile methodology as the basis of our working process. As the Agile Manifesto highlights, we value \"Responding to chage over following a plan.\"  We broke our project into small sections and focused on specific sections at a time, building upon them and working in increments. 
+Our team embraced the Agile methodology as the basis of our working process. As the Agile Manifesto highlights, we value "Responding to chage over following a plan."  We broke our project into small sections and focused on specific sections at a time, building upon them and working in increments. 
 
-We also valued \"Individuals and interactions over processes and tools\'\' mentioned in the Agile Manifesto. Our team had excellent collaboration, where team members help each other when challenges arise, work together on tasks and overcome challenges, and leverage each member\'s expertise.
+We also valued "Individuals and interactions over processes and tools'' mentioned in the Agile Manifesto. Our team had excellent collaboration, where team members help each other when challenges arise, work together on tasks and overcome challenges, and leverage each member's expertise.
 
-In addition, we translated Agile\'s \"Working solutions over comprehensive documentation\" into our team approach to meetings and communication. We held a mix of in-person and virtual meetings based on the amount of meeting preparation work and the type of work to be done in the meetings to maximize working productivity and efficiency.
+In addition, we translated Agile's "Working solutions over comprehensive documentation" into our team approach to meetings and communication. We held a mix of in-person and virtual meetings based on the amount of meeting preparation work and the type of work to be done in the meetings to maximize working productivity and efficiency.
 
-By efficiently and successfully breaking work into increments, embracing collaboration, and adapting various communication methods, we built a team environment that strongly aligned wth the Agile Manifesto\'s values, which helped us achieve project success.
+By efficiently and successfully breaking work into increments, embracing collaboration, and adapting various communication methods, we built a team environment that strongly aligned wth the Agile Manifesto's values, which helped us achieve project success.
 
-Additionally, we ensured everybody had a clear understanding of their roles and responsibilities, and we made sure everyone else was aware of each others' responsibilities too. For example, we had a Google Doc that we used to build and craft the majority of our content for the website. We delegated sections of the website to be completed by each team member, and we carefully tracked and monitored everybody\'s status as seen below. This helped our team adapt to change and assist other team members very easily and efficiently when those moments arose.
+Additionally, we ensured everybody had a clear understanding of their roles and responsibilities, and we made sure everyone else was aware of each others' responsibilities too. For example, we had a Google Doc that we used to build and craft the majority of our content for the website. We delegated sections of the website to be completed by each team member, and we carefully tracked and monitored everybody's status as seen below. This helped our team adapt to change and assist other team members very easily and efficiently when those moments arose.
 
-![](work delegation.png){width="530"}
+![](work%20delegation.png){width="530"}
 
 ## Fostering Psychological Safety
 

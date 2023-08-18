@@ -1,8 +1,8 @@
 # Recruiting Chatbots
 
-Recruiting chatbot is an automated system that works through pre-programmed responses or artificial intelligence without a human operator. Recruiting chatbots, also known as HR chatbots, are revolutionizing the recruitment process by automating tasks like screening candidates, answering FAQs, scheduling interviews, and guiding onboarding. Designed to enhance efficiency and consistency, these bots are available 24/7 and can be a cost-effective solution for organizations.
+A recruiting chatbot is an automated system that works through pre-programmed responses or artificial intelligence without a human operator (1). Recruiting chatbots, also known as HR chatbots, are revolutionizing the recruitment process by automating tasks like screening candidates, answering FAQs, scheduling interviews, and guiding onboarding. Designed to enhance efficiency and consistency, these bots are available 24/7 and can be a cost-effective solution for organizations.
 
-Moreover, chatbots are continually improving in sophistication. Surprisingly, **73% of candidates didn't realize they were communicating with a chatbot** when making inquiries about their applications with businesses (1). An increasing number of organizations are embracing AI-driven tools to enhance their recruitment processes. A new study revealed that, of the companies using AI tools, **23% implemented them in their HR divisions** (1). With the development of recruiting chatbots, students have to learn to interact with chatbots to maximize their chance of being hired. Here are some popular recruiting chatbots:
+Moreover, chatbots are continually improving in sophistication. Surprisingly, **73% of candidates didn't realize they were communicating with a chatbot** when making inquiries about their applications with businesses (2). An increasing number of organizations are embracing AI-driven tools to enhance their recruitment processes. A new study revealed that, of the companies using AI tools, **23% implemented them in their HR divisions** (2). With the development of recruiting chatbots, students have to learn to interact with chatbots to maximize their chance of being hired. Here are some popular recruiting chatbots:
 
 ## Ideal
 
@@ -33,31 +33,11 @@ The heart of HireVue is its commitment to fair and consistent hiring, relying on
 For a student to successfully navigate and benefit from recruiting chatbots during their job search, they should consider the following strategies:
 
 -   **Familiarize with the common platforms and tools and algorithms** that companies use. This knowledge can help anticipate what to expect and how to interact with recruiting chatbots.
-
-<!-- -->
-
 -   When interacting with chatbots, **use clear language and be specific in your queries**. Avoid slang, abbreviations, or overly complex vocabulary since chatbots operate best with straightforward information.
-
-<!-- -->
-
 -   Chatbots are programmed to screen candidates based on predefined criteria. Anticipate and **prepare for standard questions** related to qualifications, experience, and job preferences.
-
-<!-- -->
-
 -   Make sure your **resume or online profile highlights your main qualifications, skills, and achievements** in a clear and organized manner. This helps the chatbot easily identify and match your profile with suitable roles.
-
-<!-- -->
-
 -   Given the 24/7 availability of chatbots, take advantage of this by **actively engaging with them**, asking questions, and seeking information about job roles, company culture, or application processes.
-
-<!-- -->
-
 -   If you feel the chatbot isn't adequately addressing your concerns or if you have specific questions, **ask for human intervention or look for alternative communication channels**.
-
 -   While engaging with chatbots, **be wary of sharing overly personal or sensitive information** unless you're sure of the platform's privacy standards.
-
-<!-- -->
-
 -   Some advanced chatbots offer the option to **provide feedback**. Utilize this to clarify misunderstandings or to improve future interactions.
-
 -   While chatbots are a valuable tool, **don't rely solely on them**. Use additional resources, such as career counselors, networking events, and traditional job platforms to complement your job search.

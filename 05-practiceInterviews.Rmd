@@ -4,22 +4,22 @@ Effective interview preparation is essential for students to improve their inter
 
 ## Standout
 
-[Standout](https://standout.com/) is a mock interview practice platform for job seekers to prepare for and practice for interviews. Its unique Intelligent Mirror™ technology provides users with personalized AI feedback of verbal behaviors, non-verbal behaviors, and communication missteps to help you reflect on your performance. Users can record, review, and re-record interview answers to various interview questions. Following the video recording, StandOut will analyze responses for hesitations, enunciations, and response timing to provide feedback on interviewing skills.
+[Standout](https://standout.com/) is a mock interview practice platform for you to practice interviews. Its unique Intelligent Mirror™ technology helps it analyze recording practice videos thoroughly and gives users comprehensive feedback on both verbal and non-verbal behaviors, such as the use of filter words, speaking too fast or unclearly, eye contact, and background and lighting. Users can record, review, and re-record responses to a wide range of interview questions. And by following the detailed feedback, users can easily find out their weaknesses that need further improvement.
 
 ![](standout%20pic.png){width="446"}
 
 ## Yoodli
 
-[Yoodli](https://app.yoodli.ai/) is an AI-powered communication coach for job seekers to practice interviews and enhance interview skills. Besided general interview answer evaluations, Yoodli can evaluate users' speaking patterns, speech, and body language. Users can find out exactly how fast or slow you speak, if your word choice can be improved, and which filler words you use (and how often), among other insights (1). After uploading videos, users will get coaching comments and actionable feedback with a summary of the video's main points. Additionally, it offers a library of mock interview question with various categories, such as general, marketing, and consulting. You could even practice interview questions at random by using the "Surprise Me" function.
+[Yoodli](https://app.yoodli.ai/) is an AI-powered communication coach to practice interviews and enhance interview skills. There is a library of interview questions with categories like marketing and consulting to help you best prepare for your dream position. Even without choosing a certain specific category, you can practice general questions or use the \"Surprise Me\" function to have random practice. More than just providing general response feedback, Yoodli can further evaluate users\' speaking patterns, speech, and body language. It will provide a detailed feedback report about how many filter words you used, your speaking speed showing with a line chart, eye contact, centering or not, and a summary of your answers (1). Additionally, there are advanced speaking coach comments with suggestions about how to improve your structures and reword your answers.
 
 ![](yoodli%20pic%201.png){width="466"}
 
-Yoodli also has an innovative feature called **Private Yoodli**, which allows Yoodli to discreetly join your virtual meetings as a personal speech coach (1). It will provide feedback on your expression, clarity, and delivery during meetings to improve your overall communication skills.
+Yoodli is more than just an interview practice platform, as it also aims to improve your overall communication skills, extending beyond only interviews. It has an innovative feature called Private Yoodli, where you could open Yoodli during your virtual meetings as a personal speech coach to detect your speaking. It will provide feedback on your expression, clarity, and delivery to improve your overall communication skills.
 
 ![](yoodli%20pic%202.png){width="411"}
 
 ## InterviewGPT.ai
 
-[InterviewGPT.ai](https://interviewgpt.ai/) is an AI-powered job interview preparation tool. By using InterviewGPT.ai, users can practice interviews for specific job roles and improve their technical skill sets (2). In addition, the tool also provides access to RecruitGenius.ai and CareerGPT.ai. The former is used by recruiters to find suitable candidates for open positions, while the latter is for candidates to explore career opportunities and paths (2).
+[InterviewGPT.ai](https://interviewgpt.ai/) is an AI job interview practice tool. Users can practice interviews for personalized specific job positions and interview types such as technical skills specific and culture fit. In addition, the tool connects to the job application process by providing access to RecruitGenius.ai and CareerGPT.ai (2), which assists recruiters in finding suitable candidates and helps candidates to explore career opportunities.
 
 ![](intergptai%20pic.png){width="471"}
